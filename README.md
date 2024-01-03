@@ -1,5 +1,5 @@
 # Fine tune your own private Copilot
-<a target="_blank" href="https://colab.research.google.com/github/seanses/LLM_fine_tuning/blob/main/fine-tune-code-llama.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/seanses2/LLM_fine_tuning/blob/main/fine-tune-code-llama.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
